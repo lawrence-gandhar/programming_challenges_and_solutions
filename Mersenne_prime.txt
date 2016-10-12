@@ -1,0 +1,23 @@
+Mersenne prime
+
+Challenge Description:
+
+In January 2013, GIMPS contributors discovered the 48th known Mersenne prime number. For this, they received a $100,000 award. A newly announced $150,000 reward will be given to those who will discover the next largest known prime.
+Do not want to get it? We offer this challenge to you to get ready.
+
+Input sample:
+The first argument is a path to a file. Each line includes a test case with an integer. 
+4
+308
+
+Output sample:
+Your task is to print all Mersenne numbers that are smaller than the number in a test case. Separate those numbers by commas. 
+3
+3, 7, 31, 127
+
+
+NOTES:
+
+a Mersenne prime is a prime number that is one less than a power of two. That is, it is a prime number that can be written in the form Mn = 2^n − 1 for some integer n where n is a prime.
+
+With the exception of 2 and 3, all primes are of the form p = 6n +/- 1, where n is a natural number 
